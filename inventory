@@ -1,0 +1,5 @@
+[remote_server]
+192.168.56.128
+
+[openstack_Ubuntu]
+192.168.56.128
